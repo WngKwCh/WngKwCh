@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WngKwCh
-- 👀 I’m interested in elder learning (geragogy) and spatial cognition
-- 🌱 I’m currently learning Educational AI and Machine Learning
-- 💞️ I’m looking to collaborate on Python coding
+- 👀 I’m interested in adult playfulness
+- 🌱 I’m currently learning Gerontology, Statisitcs in R and Machine Learning
+- 💞️ I’m looking to collaborate on psychological research method, R, Python coding
 - 📫 How to reach me here
 
 <!---
