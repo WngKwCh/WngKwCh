@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WngKwCh
 - 👀 I’m interested in adult playfulness
 - 🌱 I’m currently learning Gerontology, Statisitcs in R and Machine Learning
-- 💞️ I’m looking to collaborate on psychological research method, Science of Learnjng, R, Python coding
+- 💞️ I’m looking to collaborate on psychological research method, Science of Learning, R, Python coding
 - 📫 How to reach me here
 
 <!---
